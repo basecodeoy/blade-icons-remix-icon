@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-remix-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-remix-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-remix-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-remix-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-remix-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-remix-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-remix-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-remix-icons" alt="License" />
-    </a>
-</p>
 
 ## About Remix Icons
 
